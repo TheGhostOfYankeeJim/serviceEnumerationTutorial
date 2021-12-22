@@ -1,0 +1,15 @@
+day
+paper
+clean
+print
+audio
+bottle
+render
+heating
+cooling
+label
+stamp
+tracking
+cap
+download
+crush
